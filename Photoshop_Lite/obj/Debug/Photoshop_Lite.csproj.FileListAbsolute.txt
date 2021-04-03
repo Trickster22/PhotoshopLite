@@ -1,0 +1,10 @@
+C:\Users\mihap\source\repos\Photoshop_Lite\Photoshop_Lite\bin\Debug\Photoshop_Lite.exe.config
+C:\Users\mihap\source\repos\Photoshop_Lite\Photoshop_Lite\bin\Debug\Photoshop_Lite.exe
+C:\Users\mihap\source\repos\Photoshop_Lite\Photoshop_Lite\bin\Debug\Photoshop_Lite.pdb
+C:\Users\mihap\source\repos\Photoshop_Lite\Photoshop_Lite\obj\Debug\Photoshop_Lite.csprojAssemblyReference.cache
+C:\Users\mihap\source\repos\Photoshop_Lite\Photoshop_Lite\obj\Debug\Photoshop_Lite.Form1.resources
+C:\Users\mihap\source\repos\Photoshop_Lite\Photoshop_Lite\obj\Debug\Photoshop_Lite.Properties.Resources.resources
+C:\Users\mihap\source\repos\Photoshop_Lite\Photoshop_Lite\obj\Debug\Photoshop_Lite.csproj.GenerateResource.cache
+C:\Users\mihap\source\repos\Photoshop_Lite\Photoshop_Lite\obj\Debug\Photoshop_Lite.csproj.CoreCompileInputs.cache
+C:\Users\mihap\source\repos\Photoshop_Lite\Photoshop_Lite\obj\Debug\Photoshop_Lite.exe
+C:\Users\mihap\source\repos\Photoshop_Lite\Photoshop_Lite\obj\Debug\Photoshop_Lite.pdb
